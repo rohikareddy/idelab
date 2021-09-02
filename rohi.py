@@ -9,3 +9,5 @@ def is_prime(n):
         print("prime number")
 n=int(input())
 is_prime(n)
+#3677756
+#dshugfyugs
